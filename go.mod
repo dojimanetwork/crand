@@ -1,3 +1,3 @@
-module github.com/JekaMas/crand
+module github.com/dojimanetwork/crand
 
 go 1.19
